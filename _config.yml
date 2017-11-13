@@ -7,7 +7,7 @@ locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 # DEV
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iwiedenm.github.io/jekyll-theme-massively/" # the base hostname & protocol for your site
+url: "https://iwiedenm.github.io/jekyll-theme-massively" # the base hostname & protocol for your site
 
 defaults:
 - scope:
