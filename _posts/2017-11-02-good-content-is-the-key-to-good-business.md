@@ -33,7 +33,7 @@ Thus, content in itself is one of the most effective marketing tools in your ent
 
 This way, the biggest piece of the marketing puzzle is there. It’s important to think through this strategy before initiating a new campaign. This makes the entire content and marketing process more streamlined and will eventually allow your message to reach your customers in a more efficient way. You should not underestimate the importance of giving yourself room. Having wiggle room allows for constant improvements to your strategy along the way. Having a promotion strategy that is too rigid is not wise because there is no room for healthy improvisation. Being able to tweak your marketing strategy will lead to more sales and deals.
 
-{% include /adunits/aerserve-banner.html %}
+{% include /adunits/aerserv-banner.html %}
 
 Creating consistent content and delivering it well takes a lot of research and, thus, time and effort. Building a deep-rooted understanding of your target client needs is important as your main goal should be to satisfy their needs in the form of great content. You should want to add value to their lives. Having valuable content like this may not be easy by any means. But, nonetheless, it’s an essential tool if you intend to grow a successful and sustainable business in today’s internet-centered world.
 
