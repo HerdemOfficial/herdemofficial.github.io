@@ -9,11 +9,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iwiedenm.github.io/jekyll-theme-massively/" # the base hostname & protocol for your site
 
-collections:
-  authors:
-    title: Authors
-    output: true
-
 defaults:
 - scope:
     path: ''
@@ -43,7 +38,6 @@ disqus_shortname:   somiibo
 
 # Social
 anaytics-id:        UA-104885300-1
-adsense-pub:        ca-pub-7372939085773564
 twitter:            somiibo
 facebook:           somiibo
 instagram:          somiibo
