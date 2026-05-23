@@ -1,12 +1,9 @@
 # Site
 title:              HERDEM
-bio:                'HERDEM, duygusal yoğunluğu yüksek Alternatif Rock tarzında eserlere hayat veren ve kendi yapım firması HERVOX etiketiyle dinleyicilerle buluşan bağımsız bir Ses Sanatçısıdır.HERDEM’in müzikal altyapısı yalnızca modern alternatif rock’a değil, klasik müzik eğitimine de dayanmaktadır, opera şan eğitimi almış bir müzik öğretmeni olup; bestecilik, vokal performansı, kayıt, düzenleme ve prodüksiyon süreçlerini de aktif olarak bizzat yürütmektedir.Söz yazarı ŞEHBAL YAŞAR ile 10’dan fazla eserde ortak çalışmalar gerçekleştirmiştir. Bu çalışmalarda besteler, kayıt süreçleri ve düzenlemeler HERDEM tarafından yapılmıştır. 
-Yayınlanan parçalar arasında öne çıkan eserlerinden bazıları:
-•	Bu Şehir (Temmuz 2024)
-•	Neden Biz (Mayıs 2026)
-Bu iki çalışma, Spotify editörleri tarafından “New Music Friday” listelerine eklenerek dikkat çekici bir başarı elde etmiştir.
-HERDEM yalnızca müzik üretimiyle değil; aynı zamanda sinematik görsel dünyası, AI destekli klip konseptleri ve gerçekçi atmosfer tasarımlarıyla da öne çıkar. Özellikle dramatik hikâye anlatımı, yalnız karakterler ve metaforik imgeler projelerinin görsel kimliğinin temelini oluşturur.
-
+bio:                
+  HERDEM, duygusal yogunlugu yuksek Alternatif Rock tarzinda bagimsiz bir Ses Sanatcisidir.
+  Opera san egitimi almis bir muzik ogretmeni olup; besteci, vokal performansi, kayit ve produksiyon sureclerini yurutur.
+  Spotify New Music Friday listelerine giren parcalari arasinda Bu Sehir (2024) ve Neden Biz (2026) yer almaktadir.
 description:        "Müzisyen"
 locale:             tr_TR
 baseurl: "" # the subpath of your site, e.g. /blog
