@@ -10,7 +10,7 @@ HERDEM yalnızca müzik üretimiyle değil; aynı zamanda sinematik görsel dün
 description:        "Müzisyen"
 locale:             tr_TR
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""https://herdemofficial.github.io"" # the base hostname & protocol for your site
+url: "https://herdemofficial.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
