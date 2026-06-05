@@ -7,13 +7,20 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## HERDEM Hakkında
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+HERDEM, opera şan eğitimi almış müzik öğretmeni kimliğinin ötesinde; bestecilik, prodüksiyon ve vokal performansını tek çatı altında birleştiren bağımsız bir ses sanatçısıdır. Melankolik atmosferler, içsel çatışmalar ve kayıp temalarını işlediği Alternatif Rock müziğini, kendi yapım firması HERVOX etiketiyle yayınlamaktadır. Spotify editörleri tarafından "New Music Friday" listelerine taşınan Bu Şehir ve Neden Biz gibi eserleriyle dikkat çeken HERDEM, müzik yolculuğunu yalnızca duygusal ve melankolik renklerle sınırlı tutmayarak enerjik ve hareketli çalışmalarıyla da dinleyicilerinin karşısına çıkmaktadır. AI destekli sinematik klip konseptleri ve atmosferik görsel dünyasıyla da öne çıkan HERDEM, her projesiyle kendine özgü bir sanatsal evren inşa etmeye devam etmektedir.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+Bestecilik, vokal performansı, kayıt, düzenleme ve prodüksiyon süreçlerini de aktif olarak bizzat yürüten HERDEM, Söz yazarı ŞEHBAL YAŞAR ile 10’dan fazla eserde ortak çalışmalar gerçekleştirmiştir. Bu çalışmalarda besteler, kayıt süreçleri ve düzenlemeler HERDEM tarafından yapılmıştır. 
+Yayınlanan parçalar arasında öne çıkan eserlerinden bazıları:
+•	Bu Şehir (Temmuz 2024)
+•	Neden Biz (Mayıs 2026)
+Bu iki çalışma, Spotify editörleri tarafından “New Music Friday” listelerine eklenerek dikkat çekici bir başarı elde etmiştir.
+HERDEM yalnızca müzik üretimiyle değil; aynı zamanda sinematik görsel dünyası, AI destekli klip konseptleri ve gerçekçi atmosfer tasarımlarıyla da öne çıkmaktadır. Özellikle dramatik hikâye anlatımı, yalnız karakterler ve metaforik imgeler projelerinin görsel kimliğinin temelini oluşturur.
+<img width="470" height="264" alt="image" src="https://github.com/user-attachments/assets/bd854d66-c368-4284-867e-912a24025a94" />
+
 
 {% include /adunits/adsense-inarticle-1.html %}
 
