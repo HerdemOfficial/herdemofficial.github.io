@@ -3,7 +3,7 @@ layout: post
 title:  "NEDEN BİZ Spotify New Music Friday Listesinde"
 date:   2026-05-08
 excerpt: "HERDEM son teklisinin çıkış tarihinden sonra uzunca bir ara vererek ruhunu beslemiş, kendini dinlemiş ve üretim yapmıştı. Hayranları dört gözle geri döneceği günü bekledi ve 8 Mayıs 2026 tarihinde NEDEN BİZ adlı yeni teklisi ile çıkış yaptı, ancak bu çıkış tıpkı  Temmuz 2024 tarihinde yayımlanan BU ŞEHİR gibi SPOTIFY Editörlerinin dikkatinden kaçmadı ve New Music Friday listesinde yerini alarak hayranları ve yeni dinleyicileri ile buluştu."
-image: "/images/pic03.jpg"
+image: "/images/neden biz.jpg"
 ---
 What is the most important part about having a website? While marketing is important, you won’t have much to market unless you focus on your content. The phrase “content is king” has been coined as a result of the sheer importance of having engaging information for your users to digest.
 
