@@ -3,7 +3,7 @@ layout: post
 title:  "Yeni Single - GERİYE KALAN "
 date:   2026-06-05
 excerpt: "HERDEM son teklisi Geriye Kalan ile 5 Haziran 2026 tarihinde tüm dijital platformllarda yerini aldı. 8 Haziran 2026 gecesi 20:00'de ise klibi ile Youtube kanalında müzik severlerlerle buluşmak için geri sayımda. GERİYE KALAN; duygusal yoğunluğu yüksek, dinleyeni 'Sanki benden bahsediyor' dercesine içsel bir yolculuğa çıkaran ve ruhen kaybolmuş bir adamın hikayesini anlatıyor. "
-image: "/images/pic04.jpg"
+image: "/images/Ekran Resmi 2026-05-18 19.02.04.png"
 ---
 
 Influencing your first blog to post is the most imperative as it will set the pace for whatever is left of the content you make! we should go over the sorts of things you can put in your blog!
