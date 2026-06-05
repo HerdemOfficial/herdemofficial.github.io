@@ -2,7 +2,7 @@
 layout: post
 title:  "Yeni Single - GERİYE KALAN "
 date:   2026-06-05
-excerpt: "HERDEM son teklisi Geriye Kalan ile 5 Haziran 2026 tarihinde tüm dijital platformllarda yerini aldı. 8 Haziran 2026 gecesi 20:00'de ise klibi ile Youtube kanalında müzik severlerlerle buluşmak için geri sayımda. GERİYE KALAN; duygusal yoğunluğu yüksek, dinleyeni 'Sanki benden bahsediyor' dercesine içsel bir yolculuğa çıkaran ve ruhen kaybolmuş bir adamın hikayesini anlatıyor. 
+excerpt: "HERDEM son teklisi Geriye Kalan ile 5 Haziran 2026 tarihinde tüm dijital platformllarda yerini aldı. 8 Haziran 2026 gecesi 20:00'de ise klibi ile Youtube kanalında müzik severlerlerle buluşmak için geri sayımda. GERİYE KALAN; duygusal yoğunluğu yüksek, dinleyeni 'Sanki benden bahsediyor' dercesine içsel bir yolculuğa çıkaran ve ruhen kaybolmuş bir adamın hikayesini anlatıyor. "
 image: "/images/pic04.jpg"
 ---
 
