@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "BU ŞEHİR New Music Friday Listesinde"
+date:   2024-07-05
+excerpt: "HERDEM'den yine duygusal bir tekli ! BU ŞEHİR SPOTIFY Editörlerinin takdiri ile New Music Friday listesinden çıkış yaptı. Sevdiği kadının yokluğunda, onun hayali ile yaşayan, rüyalarında buluşma ümidi ile uyuyan bir adamın sırf bu yüzden bulunduğu ortamı, şehri bile değiştiremediğinin içsel öyküsünü anlatıyor"
 image: "/images/pic02.jpg"
 ---
 
