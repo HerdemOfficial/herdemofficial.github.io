@@ -1,6 +1,7 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Theme Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Ana Sayfa</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Biyografi</a></li>
+  <li class="{% if page.url contains '/diskografi/' %} active {% endif %}"><a href="{{ "/diskografi/" | absolute_url }}">Diskografi</a></li>
+  <li class="{% if page.url contains '/medya/' %} active {% endif %}"><a href="{{ "/medya/" | absolute_url }}">Medya</a></li>
+  <li class="{% if page.url contains '/iletisim/' %} active {% endif %}"><a href="{{ "/iletisim/" | absolute_url }}">İletişim</a></li>
 </ul>
