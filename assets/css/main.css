@@ -4480,3 +4480,11 @@
 		}
 
 	}
+/* Türkçe karakter düzeltmesi */
+* {
+  text-transform: none !important;
+}
+
+h1, h2, h3, nav a, .links a {
+  text-transform: none !important;
+}
