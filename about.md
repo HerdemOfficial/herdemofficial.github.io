@@ -19,8 +19,6 @@ Yayınlanan parçalar arasında öne çıkan eserlerinden bazıları:
 •	Neden Biz (Mayıs 2026)
 Bu iki çalışma, Spotify editörleri tarafından “New Music Friday” listelerine eklenerek dikkat çekici bir başarı elde etmiştir.
 HERDEM yalnızca müzik üretimiyle değil; aynı zamanda sinematik görsel dünyası, AI destekli klip konseptleri ve gerçekçi atmosfer tasarımlarıyla da öne çıkmaktadır. Özellikle dramatik hikâye anlatımı, yalnız karakterler ve metaforik imgeler projelerinin görsel kimliğinin temelini oluşturur.
-<img width="470" height="264" alt="image" src="https://github.com/user-attachments/assets/bd854d66-c368-4284-867e-912a24025a94" />
-
 
 {% include /adunits/adsense-inarticle-1.html %}
 
